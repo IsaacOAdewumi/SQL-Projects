@@ -1,3 +1,15 @@
+# SQL Projects
+
+**Isaac Olufemi Adewumi**
+
+## Available project
+
+[MME PostgreSQL Database Prototype](mme-postgresql/README.md) — relational schema, sample data, PL/pgSQL customer registration and purchase procedures, and admin/customer privilege examples. Includes the project brief and supporting Word documents.
+
+## Earlier project plan
+
+The following E-Commerce Sales Analysis section is the repository's original planning document. Its proposed scripts and results have not been added.
+
 # E-Commerce Sales Analysis with SQL
 
 **Author:** Isaac Olufemi Adewumi  
